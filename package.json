@@ -3,8 +3,6 @@
     "@influxdata/influxdb-client": "^1.35.0",
     "amqplib": "^0.10.4",
     "dotenv": "^16.4.5",
-    "mongoose": "^8.5.4",
-    "mqtt": "^5.10.0",
-    "redis": "^4.7.0"
+    "mqtt": "^5.10.0"
   }
 }
